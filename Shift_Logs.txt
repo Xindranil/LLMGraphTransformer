@@ -1,0 +1,42 @@
+Shift Log Entry 1:
+Date: 2024-12-28
+Shift: Morning
+Operator: John Doe
+Equipment: Komatsu Truck #23
+Issues Observed:
+- High engine temperature warning.
+- Decreased hydraulic pressure.
+Actions Taken:
+- Checked cooling system and added coolant.
+- Inspected hydraulic lines for leaks, no visible damage found.
+Recommendations:
+- Monitor engine temperature in the next shift.
+- Schedule detailed hydraulic system inspection.
+
+Shift Log Entry 2:
+Date: 2024-12-28
+Shift: Afternoon
+Operator: Jane Smith
+Equipment: Komatsu Truck #23
+Issues Observed:
+- Persistent high engine temperature.
+- Sluggish acceleration.
+Actions Taken:
+- Reduced operational load to minimize stress on the engine.
+- Logged data for temperature and performance metrics.
+Recommendations:
+- Perform engine diagnostics during maintenance hours.
+
+Shift Log Entry 3:
+Date: 2024-12-29
+Shift: Night
+Operator: Mike Brown
+Equipment: Komatsu Truck #23
+Issues Observed:
+- Engine shutdown during operation.
+- Fault code P0234 recorded.
+Actions Taken:
+- Attempted to restart; engine restarted after 10 minutes.
+- Escalated issue to maintenance team.
+Recommendations:
+- Immediate engine repair to prevent future failures.
